@@ -1,5 +1,4 @@
 name: CLI Workflow
-
 on:
   push:
     branches:
