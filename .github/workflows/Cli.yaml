@@ -26,4 +26,4 @@ jobs:
       # Step 4: Run your CLI command (replace with the command you need)
       - name: Run CLI Command
         run: |
-          python cli_tool.py --name "GitHub Actions"
+          python test_app.py --name "GitHub Actions"
